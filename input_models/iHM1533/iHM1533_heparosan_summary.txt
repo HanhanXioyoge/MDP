@@ -1,0 +1,8 @@
+iHM1533 Heparosan Production Analysis Summary
+Generated: 15-Jul-2026 15:46:00
+
+FBA Maximum Production: 4.0196 mmol/gDW/h
+Molar Yield (mol heparosan / mol glucose): 0.4020
+Mass Yield (g heparosan / g glucose): 0.8463
+FVA blocked reactions: 1239
+FVA fixed-flux reactions: 0
